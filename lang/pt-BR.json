@@ -1,0 +1,22 @@
+{
+    "Prefix": "{red}[Dice] {white}",
+
+    "Player not found": "Jogador não encontrado",
+    "Invalid amount of credits": "Quantidade de créditos inválida",
+    "Minimum bet amount": "O valor mínimo da aposta é {green}{0} {white}créditos",
+    "Maximum bet amount": "O valor máximo da aposta é {green}{0} {white}créditos",
+    "Not enough credits": "Créditos insuficientes",
+
+    "Challenge cooldown": "Você deve esperar {red}{0} {white}segundos antes de desafiar novamente",
+
+    "Duel request": "{darkblue}{0} {white}te desafiou para um duelo de dados apostando {green}{1} {white}créditos. Digite {yellow}!acceptduel {white}para aceitar",
+    "Duel refused": "{darkblue}{0} {white}recusou seu desafio de duelo",
+    "No pending duel": "Você não tem duelos pendentes",
+    "You send a duel": "Você enviou um desafio de duelo para {darkblue}{0} por {green}{1} {white}créditos",
+    "Duel timeout": "O pedido de duelo expirou. Por favor, inicie um novo desafio se desejar duelar",
+
+    "Duel roll 1": "{darkblue}{0} {white}rolou um {green}{1}",
+    "Duel roll 2": "{darkblue}{0} {white}rolou um {green}{1}",
+    "Duel result": "{darkblue}{0} {white}venceu o duelo e recebeu {gold}{1} {white}créditos",
+    "Duel tie": "O duelo terminou em empate. Nenhum crédito foi transferido"
+}

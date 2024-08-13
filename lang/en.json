@@ -1,0 +1,22 @@
+{
+    "Prefix": "{red}[Dice] {white}",
+
+    "Player not found": "Player not found",
+    "Invalid amount of credits": "Invalid amount of credits",
+    "Minimum bet amount": "The minimum bet amount is {green}{0} {white}credits",
+    "Maximum bet amount": "The maximum bet amount is {green}{0} {white}credits",
+    "Not enough credits": "Not enough credits",
+
+    "Challenge cooldown": "You must wait {red}{0} {white}seconds before challenging again",
+
+    "Duel request": "{darkblue}{0} {white}has challenged you to a dice duel betting {green}{1} {white}credits. Type {yellow}!acceptduel {white}to accept",
+    "Duel refused": "{darkblue}{0} {white}has refused your duel challenge",
+    "No pending duel": "You have no pending duels",
+    "You send a duel": "You have sent a duel challenge to {darkblue}{0} for {green}{1} {white}credits",
+    "Duel timeout": "Duel request has expired. Please initiate a new challenge if you wish to duel",
+
+    "Duel roll 1": "{darkblue}{0} {white}rolled a {green}{1}",
+    "Duel roll 2": "{darkblue}{0} {white}rolled a {green}{1}",
+    "Duel result": "{darkblue}{0} {white}won the duel and received {gold}{1} {white}credits",
+    "Duel tie": "The duel is a tie. No credits were transferred"
+}
