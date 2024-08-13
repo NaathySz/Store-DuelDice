@@ -24,3 +24,4 @@ Config will be auto generated. Default:
   "max_bet": 1000 // Maximum bet amount
 }
 ```
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L611665R)
