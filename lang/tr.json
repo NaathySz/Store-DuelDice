@@ -1,0 +1,22 @@
+{
+    "Prefix": "{red}[Zar] {white}",
+
+    "Player not found": "Oyuncu bulunamadı",
+    "Invalid amount of credits": "Geçersiz kredi miktarı",
+    "Minimum bet amount": "Minimum bahis miktarı {green}{0} {white}kredi",
+    "Maximum bet amount": "Maksimum bahis miktarı {green}{0} {white}kredi",
+    "Not enough credits": "Yeterli kredi yok",
+
+    "Challenge cooldown": "Tekrar meydan okumadan önce {red}{0} {white}saniye beklemelisiniz",
+
+    "Duel request": "{darkblue}{0} {white}sizi {green}{1} {white}kredi bahisli bir zar düellosuna davet etti. Kabul etmek için {yellow}!acceptduel {white}yazın",
+    "Duel refused": "{darkblue}{0} {white}meydan okumanızı reddetti",
+    "No pending duel": "Bekleyen bir düellonuz yok",
+    "You send a duel": "{darkblue}{0} {white}kişisine {green}{1} {white}kredi için bir düello meydan okuması gönderdiniz",
+    "Duel timeout": "Düello isteği süresi doldu. Düello etmek isterseniz yeni bir meydan okuma başlatın",
+
+    "Duel roll 1": "{darkblue}{0} {white}bir {green}{1} attı",
+    "Duel roll 2": "{darkblue}{0} {white}bir {green}{1} attı",
+    "Duel result": "{darkblue}{0} {white}düelloyu kazandı ve {gold}{1} {white}kredi aldı",
+    "Duel tie": "Düello berabere. Kredi transferi yapılmadı"
+}
