@@ -15,8 +15,8 @@
     "You send a duel": "{darkblue}{0} {white}kişisine {green}{1} {white}kredi için bir düello meydan okuması gönderdiniz",
     "Duel timeout": "Düello isteği süresi doldu. Düello etmek isterseniz yeni bir meydan okuma başlatın",
 
-    "Duel roll 1": "{darkblue}{0} {white}bir {green}{1} attı",
-    "Duel roll 2": "{darkblue}{0} {white}bir {green}{1} attı",
+    "Duel roll 1": "{darkblue}{0} {white}zarda {green}{1} attı",
+    "Duel roll 2": "{darkblue}{0} {white}zarda {green}{1} attı",
     "Duel result": "{darkblue}{0} {white}düelloyu kazandı ve {gold}{1} {white}kredi aldı",
     "Duel tie": "Düello berabere. Kredi transferi yapılmadı"
 }
